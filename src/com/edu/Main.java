@@ -28,7 +28,7 @@ public class Main {
                 try {
                     br.close();
                 } catch (IOException e) {
-                    e.printStackTrace();
+                    e.printStackTrace();ываыва
                 }
             }
         }
