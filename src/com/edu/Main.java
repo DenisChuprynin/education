@@ -17,13 +17,13 @@ public class Main {
             String line;
             while ((line = br.readLine()) != null && !line.isEmpty()) {
                 //list.add(new String(line.substring(0, 2)));
-                list.add(line.substring(0, 2));
+                list.add(line.substring(0, 2));dgssdfgdg
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
-        } finally {
+        } finally { sdfgsdg
             if (br != null) {
                 try {
                     br.close();
@@ -34,6 +34,6 @@ public class Main {
         }
         Thread.sleep(10000);
 
-
+sdfsdfsdf
     }
 }
